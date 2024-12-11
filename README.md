@@ -1,1 +1,2 @@
-# missingValue
+## Handling Missing Values in Python
+This repository contains a comprehensive guide on handling missing values during the data analysis process in Python. It covers identification methods, various imputation techniques (mean, median, mode, forward/backward fill, interpolation), advanced methods like KNN and multiple imputation, and best practices. Whether you're dealing with numerical or categorical data, this guide provides practical examples and code snippets to make your analysis robust and reliable.
